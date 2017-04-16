@@ -1,4 +1,4 @@
-﻿// - New script keyword processor for Unity 3D by Sarper Soher       -
+// - New script keyword processor for Unity 3D by Sarper Soher       -
 // - http://www.sarpersoher.com                                      -
 // -------------------------------------------------------------------
 // - This script changes the keywords in a newly created script with -
@@ -48,7 +48,7 @@ internal sealed class ScriptKeywordProcessor: UnityEditor.AssetModificationProce
     file=System.IO.File.ReadAllText (path);
 
    
-    string codeKeysPath = Path.GetFullPath (@"Assets/ProjectPref/Editor/CodeTemplates/TemplateKeys.txt");
+    string codeKeysPath = Path.GetFullPath (@"Assets/ProjectPref/Editor/CodeTemplates/Settings/TemplateKeys.txt");
     List<CodeKeys> codeKeys = new List<CodeKeys> ();
     if (File.Exists (codeKeysPath))
     {
