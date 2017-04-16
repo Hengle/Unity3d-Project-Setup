@@ -1,0 +1,10 @@
+#CREATIONDATE#
+[Time]
+#PROJECTNAME#
+[PlayerSettings.productName]
+#DEVELOPERNAME#
+Default name
+#COMPANY#
+[PlayerSettings.companyName]
+#NAMESPACE#
+MyNamespace

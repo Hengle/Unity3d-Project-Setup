@@ -1,0 +1,16 @@
+"BasicScripts/C# Script"
+/*===============================================================
+Product:    #PROJECTNAME#
+Developer:  #DEVELOPERNAME#
+Company:    #COMPANY#
+Date:       #CREATIONDATE#
+================================================================*/
+using UnityEngine;
+
+namespace #NAMESPACE#{
+
+public class ##NAME## : MonoBehaviour {
+
+
+}
+}
