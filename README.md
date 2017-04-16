@@ -114,9 +114,9 @@ The structure of templatekeys must be similar to this template:
       #PROJECTNAME#
       [PlayerSettings.productName]
       #DEVELOPERNAME#
-      Dimitry Pixeye - pixeye@hbrew.store
+      Your name
       #COMPANY#
-      [PlayerSettings.companyName] - http://www.hbrew.store
+      [PlayerSettings.companyName] 
       #NAMESPACE#
       Homebrew
 
